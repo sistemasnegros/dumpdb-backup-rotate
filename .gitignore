@@ -1,0 +1,11 @@
+.pyenv
+
+*private*
+*.log
+*.dev
+*.log
+*.spec
+*.pyc
+
+__pycache__
+
